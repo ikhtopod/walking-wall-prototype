@@ -1,3 +1,3 @@
 # WalkingWall
 
-Prototype of game "Walking Wall" on The Godot 2.
+Prototype of game "Walking Wall" on The Godot 2.1
